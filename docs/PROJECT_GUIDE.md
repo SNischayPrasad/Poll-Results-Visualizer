@@ -380,7 +380,7 @@ STEP 5/5  Insights            → 12 findings, report saved
    git add .
    git commit -m "Initial commit: project structure and requirements"
    git branch -M main
-   git remote add origin https://github.com/Nischay2008/Poll-Results-Visualizer.git
+   git remote add origin https://github.com/SNischayPrasad/Poll-Results-Visualizer.git
    git push -u origin main
    ```
 4. When GitHub asks for a password, use a **Personal Access Token** (Settings → Developer settings → Tokens), or sign in with GitHub Desktop / VS Code.
@@ -405,7 +405,7 @@ docs: add README with screenshots and results
 
 ## 1️⃣1️⃣ README.md
 
-The full README is in the project root ([`README.md`](../README.md)). It contains: overview, problem, solution, features, tech stack, project structure, how to run, results table and insights, screenshots, how to use your own Google Form, future improvements and a disclaimer. **Before you publish, replace `Your Name`, `Nischay2008` and the LinkedIn link.**
+The full README is in the project root ([`README.md`](../README.md)). It contains: overview, problem, solution, features, tech stack, project structure, how to run, results table and insights, screenshots, how to use your own Google Form, future improvements and a disclaimer. **Before you publish, replace `Your Name` and the LinkedIn link.**
 
 ---
 
