@@ -1,0 +1,6 @@
+option,votes,share_pct,moe_pct,ci_low_pct,ci_high_pct,rank
+Very Satisfied,430,21.95,1.83,20.12,23.78,3
+Satisfied,706,36.04,2.13,33.91,38.16,1
+Neutral,450,22.97,1.86,21.11,24.83,2
+Dissatisfied,241,12.3,1.45,10.85,13.76,4
+Very Dissatisfied,132,6.74,1.11,5.63,7.85,5
